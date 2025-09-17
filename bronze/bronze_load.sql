@@ -24,8 +24,8 @@ GO
 PRINT('>>Inserting Data into: bronze.dim_company');
 GO
 BULK INSERT bronze.dim_company
-FROM 'D:\Project\Company Codes.csv'
+FROM 'D:\Project\Company Codes.txt'
 WITH(
 FIRSTROW=2,
-FIELDTERMINATOR=',',
+FIELDTERMINATOR='\t',
 TABLOCK);
