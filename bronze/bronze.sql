@@ -1,4 +1,5 @@
 
+
 USE master;
 
 -- Check if database exists and drop it
@@ -79,5 +80,6 @@ CREATE TABLE bronze.dim_company(
 unique_code INT,
 company_ticker VARCHAR(255),
 company_name VARCHAR(255),
-sector_name VARCHAR(255)
+sector_name VARCHAR(255),
+company_type VARCHAR(10)
 );
