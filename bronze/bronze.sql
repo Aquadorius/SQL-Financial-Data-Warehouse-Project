@@ -1,3 +1,4 @@
+
 USE master;
 
 -- Check if database exists and drop it
@@ -46,12 +47,14 @@ PRINT ('Ready for table creation and data loading.');
 PRINT ('========================================');
 
 
+/*============================================
+CREATING TABLE: bronze.fact_company
+==============================================*/
 
-
-IF OBJECT_ID('bronze.financials','U') IS NOT NULL
-    DROP TABLE bronze.financials;
+IF OBJECT_ID('bronze.fact_company','U') IS NOT NULL
+    DROP TABLE bronze.fact_company;
 GO
-CREATE TABLE bronze.financials(
+CREATE TABLE bronze.fact_company(
     company_id     INT NOT NULL,
 	ticker         NVARCHAR(50) NULL,
     company_name   NVARCHAR(200) NULL,
@@ -65,16 +68,16 @@ CREATE TABLE bronze.financials(
 );
 GO
 
+/*============================================
+CREATING TABLE: bronze.dim_company
+==============================================*/
+	
+IF OBJECT_ID('bronze.dim_company','U') IS NOT NULL
+    DROP TABLE bronze.dim_company;
 
-
-PRINT('>>Truncating Table:  bronze.financials');
-TRUNCATE TABLE bronze.financials;
-GO
-PRINT('>>Inserting Data into: bronze.crm_cust_info');
-GO
-BULK INSERT bronze.financials
-FROM 'D:\Project\AABS1.txt'
-WITH(
-FIRSTROW=2,
-FIELDTERMINATOR='\t',
-TABLOCK);
+CREATE TABLE bronze.dim_company(
+unique_code INT,
+company_ticker VARCHAR(255),
+company_name VARCHAR(255),
+sector_name VARCHAR(255)
+);
