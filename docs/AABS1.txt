@@ -1,0 +1,87 @@
+company_id	ticker	company_name	statement_type	account_type	account_name	amount	unit	year_ended	currency
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Sales	5867298	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Cost of sales	-5042494	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Gross profit	824804	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Profit from other reportable segments ? net	28645	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Distribution cost	-114250	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Administrative expenses	-108974	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Other operating expenses	-79200	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Operating profit	551025	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Finance cost	-125083	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Other income	127657	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Profit before taxation	553599	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Taxation	-58664	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Profit after taxation	494935	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Earnings per share - Basic and diluted	28.51	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Sales	5520740	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Cost of sales	-4739773	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Gross profit	780967	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Profit from other reportable segments ? net	20449	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Distribution cost	-144676	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Administrative expenses	-117021	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Other operating expenses	-31859	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Operating profit	507860	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Finance cost	-247173	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Other income	127432	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Profit before taxation	388119	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Taxation	-89966	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Profit after taxation	298153	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	IS		Earnings per share - Basic and diluted	17.17	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	"Property, plant and equipment"	1793347	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Investment property	380	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Long term investments	133987	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Long term loans	905	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Long term deposits	11403	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Deferred taxation	0	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Stores and spares	139241	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Stock-in-trade	848785	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Trade debts	189018	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Loans and advances	39978	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Trade deposits and short term prepayments	10109	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Interest accrued	1380	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Other receivables	57904	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Short term investments	227911	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Income tax refunds due from the Government	30315	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Cash and bank balances	41740	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	AC	Authorized capital	400000	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	E	"Issued, subscribed and paid - up capital"	173623	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	E	Reserves	2054425	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCL	Deferred liability	68507	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Trade and other payables	758280	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Accrued mark - up	2121	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Short term borrowings	456601	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Current maturity of non-current liabilities	0	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Provision for taxation	12846	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	"Property, plant and equipment"	1912669	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Investment property	422	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Long term investments	212271	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Long term loans	1353	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Long term deposits	11393	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCA	Deferred taxation	0	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Stores and spares	140750	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Stock-in-trade	1435926	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Trade debts	41997	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Loans and advances	231153	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Trade deposits and short term prepayments	12593	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Interest accrued	1300	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Other receivables	61394	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Short term investments	232479	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Income tax refunds due from the Government	76016	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CA	Cash and bank balances	17394	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	AC	Authorized capital	400000	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	E	"Issued, subscribed and paid - up capital"	173623	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	E	Reserves	2052615	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	NCL	Deferred liability	62862	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Trade and other payables	890620	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Accrued mark - up	16953	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Short term borrowings	1143227	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Current maturity of non-current liabilities	36364	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	BS	CL	Provision for taxation	12846	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		CFO	1050575	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		CFI	116377	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		CFF	-1142606	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		NCF	41740	Thousands	9/30/2015	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		CFO	366724	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		CFI	-30855	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		CFF	-497454	Thousands	9/30/2014	PKR
+1	AABS	Al-Abbas Sugar Mills Limited	CF		NCF	17394	Thousands	9/30/2014	PKR
