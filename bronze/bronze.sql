@@ -81,5 +81,5 @@ unique_code INT,
 company_ticker VARCHAR(255),
 company_name VARCHAR(255),
 sector_name VARCHAR(255),
-company_type VARCHAR(10)
+sector_type VARCHAR(10)
 );
