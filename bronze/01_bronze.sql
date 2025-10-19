@@ -56,16 +56,14 @@ IF OBJECT_ID('bronze.fact_company','U') IS NOT NULL
     DROP TABLE bronze.fact_company;
 GO
 CREATE TABLE bronze.fact_company(
-    company_id     INT NOT NULL,
-	ticker         NVARCHAR(50) NULL,
-    company_name   NVARCHAR(200) NULL,
+	ticker         NVARCHAR(50) NOT NULL,
     statement_type NVARCHAR(50) NOT NULL,     -- 'IS','BS','CF'
     account_type   NVARCHAR(50) NULL,         -- optional grouping (Revenue, Expense, Asset, etc.)
     account_name   NVARCHAR(200) NOT NULL,    -- raw account label
-    amount        FLOAT NULL,        -- FLOAT amount
-    unit           NVARCHAR(50) NULL,         -- 'Units','Thousands','Millions'
+	note int,
+	amount        FLOAT NULL, 
+	unit int,
     year_ended     DATE NOT NULL,             -- e.g. '2015-09-30'
-    currency       NVARCHAR(100) NULL,
 );
 GO
 
