@@ -8,7 +8,7 @@ GO
 PRINT('>>Inserting Data into: bronze.fact_company');
 GO
 BULK INSERT bronze.fact_company
-FROM 'D:\Project\AABS1.txt'
+FROM 'D:\Project\Company_facts.txt'
 WITH(
 FIRSTROW=2,
 FIELDTERMINATOR='\t',
@@ -29,3 +29,5 @@ WITH(
 FIRSTROW=2,
 FIELDTERMINATOR='\t',
 TABLOCK);
+
+SELECT * FROM bronze.fact_company
